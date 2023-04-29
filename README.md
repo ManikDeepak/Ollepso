@@ -17,7 +17,7 @@ With its simple and intuitive interface, Ollepso offers a convenient and hassle-
 
 #### Screenshots of the app
 >Home Page
-![Home Page](master/screencapture-localhost-4200-home-2023-04-29-15_09_10.png)
+![Home Page](https://github.com/ManikDeepak/Ollepso/blob/d69ce796a3c1d8dd471f3545c76768c2f2407143/screencapture-localhost-4200-home-2023-04-29-15_09_10.png)
 >Cart
 ![Cart](screencapture-localhost-4200-cart-2023-04-29-15_09_37.png)
 >Payment Gateway using Strip
