@@ -1,0 +1,52 @@
+.navbar{
+ /* height: 15vh; */
+ width: 100vw;
+}
+nav{
+display: flex;
+ align-items: center;
+ justify-content: space-between;
+padding-left: 6%;
+padding-right: 10%;
+padding-top: 5px;
+/* background: grey; */
+/* backdrop-filter: blur(10px); */
+
+}
+
+.logo{
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+
+}
+.logo:hover{
+    cursor:default;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 2px 8px;
+    transition: 0.3s;
+}
+nav ul li a:hover{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    transition: 0.3s;
+}
+button{
+    border: none;
+    background:none;
+    /* width: 25px; */
+}
+button:hover{
+    cursor: pointer;
+}
