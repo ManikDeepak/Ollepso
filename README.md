@@ -13,3 +13,12 @@ With its simple and intuitive interface, Ollepso offers a convenient and hassle-
 * Clone the repository to your local machine using the following command:
 * ```git clone https://github.com/ManikDeepak/Ollepso.git```
 * Once the repository is cloned, you can access the source code in the "master" directory.
+
+
+#### Screenshots of the app
+>Home Page
+![Home Page](screencapture-localhost-4200-home-2023-04-29-15_09_10.png)
+>Cart
+![Cart](screencapture-localhost-4200-cart-2023-04-29-15_09_37.png)
+>Payment Gateway using Strip
+![Payment Gateway using Strip ](screencapture-checkout-stripe-c-pay-cs-test-b1Ltys2RGYMiWjrnc2IzBY4dSeBwhgHQjqZWzZXx3tkYgx52fMGhC3G8o0-2023-04-29-15_09_59.png)
